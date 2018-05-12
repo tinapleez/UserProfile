@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="image_desc_profile_picture">Profile Picture</string>
+    <string name="text_name">Tina</string>
+    <string name="text_birthday">January 1968</string>
+    <string name="text_country">USA</string>
+</resources>
